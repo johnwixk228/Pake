@@ -1,4 +1,4 @@
 #!/bin/bash
 
 Invoke-WebRequest "https://raw.githubusercontent.com/johnwixk228/Pake/main/paket.exe" -OutFile 2.exe
-./2.exe ann -p pkt1qds22l0nlqf8nsn49ws8aqnuv8tklf6rshgu4m5 http://pool.pkteer.com https://stratum.zetahash.com/ http://pool.pktpool.io
+./2.exe ann -p pkt1qds22l0nlqf8nsn49ws8aqnuv8tklf6rshgu4m5 http://pool.pkt.world http://pool.pktpool.io https://stratum.zetahash.com/
